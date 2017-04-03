@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vsoriano58/platzom.git"
+    "url": "git+https://github.com/vsoriano58/vsplatzom.git"
   },
   "keywords": [
     "platzom",
@@ -21,9 +21,9 @@
   "author": "Vicent Soriano <vsoriano58@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vsoriano58/platzom/issues"
+    "url": "https://github.com/vsoriano58/vsplatzom/issues"
   },
-  "homepage": "https://github.com/vsoriano58/platzom#readme",
+  "homepage": "https://github.com/vsoriano58/vsplatzom#readme",
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-preset-env": "^1.3.2",
